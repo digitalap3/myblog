@@ -1,0 +1,12 @@
+bgpic: default-post.jpg
+created: 20200908123229272
+creator: digitalap3
+lead: Posts that don't really fit a Category and do not warrant creating a new one.
+modified: 20200908123357719
+modifier: digitalap3
+page-type: index
+tags: category
+title: Null
+type: text/vnd.tiddlywiki
+
+{{||categoryTemplate}}

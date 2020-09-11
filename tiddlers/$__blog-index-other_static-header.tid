@@ -1,0 +1,24 @@
+created: 20200908233806548
+creator: digitalap3
+modified: 20200908233919437
+modifier: digitalap3
+page-type: structure
+post-title: static header
+tags: 
+title: $:/blog-index-other/static-header
+type: text/vnd.tiddlywiki
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('./images/headers/index-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Posts with Category {{!!title}}</h1>
+            <span class="subheading"><$view field="lead"/></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>

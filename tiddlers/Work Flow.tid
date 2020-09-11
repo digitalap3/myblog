@@ -1,0 +1,33 @@
+created: 20200905151835965
+creator: digitalap3
+modified: 20200909034010728
+modifier: digitalap3
+page-type: notes
+tags: draft posted
+title: Work Flow
+type: text/vnd.tiddlywiki
+
+The code used to make this blog is hosted on [[github|https://github.com/digitalap3/tiddlywikistaticsitegen]].  The short version of the workflow when using it is as follows.
+
+# create a post with the tag 'draft'.  This will be the displayed title of the post
+
+# open the `Create New Post` tiddler.
+
+# follow the instructions.  The first field is the uri of the post.  It is recommended to use all lower case and hyphens.  ''NO SPACES''. I would avoid special characters but apostrophes seemed to work fine.  This will be the title of the final draft that is to be rendered.
+
+# run build script
+
+# run webserver and check changes in new tab
+
+# copy files to root directory of production site
+
+---
+
+I still have a great deal to do but the generator and site are I think done enough to be functional and provide a framework for someone else work off of.
+
+<div class="text-center mt-4">
+<figure class="figure">
+  <img src="./images/2020/09/flow-Edited.jpg" class="figure-img img-fluid rounded" alt="...">
+  <figcaption class="figure-caption">Photo by <a href="/photographer/Hot5auce-61893">Jan Zajc</a> from <a href="https://freeimages.com/">FreeImages</a></figcaption>
+</figure>
+</div>

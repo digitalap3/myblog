@@ -1,0 +1,31 @@
+created: 20200901022311748
+creator: digitalap3
+modified: 20200911012801403
+modifier: digitalap3
+page-type: structure
+tags: 
+title: $:/blog/static-footer
+type: text/vnd.tiddlywiki
+
+ <!-- Footer -->
+  <footer>
+    <div class="container text-light bg-dark">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto mt-3">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+               powered by [[tiddlywiki|https://tiddlywiki.com]]
+            </li>
+            <li class="list-inline-item">
+               bootstrap template: [[Clean Blog|https://startbootstrap.github.io/startbootstrap-clean-blog/index.html]]
+            </li>
+            <li class="list-inline-item">
+               view code on [[github|https://github.com/digitalap3/tiddlywikistaticsitegen]]
+            </li>
+          </ul>
+          <br/>
+          <p class="copyright text-mutedd mb-3">Copyright &copy; digitalap3 2020</p>
+        </div>
+      </div>
+    </div>
+  </footer>

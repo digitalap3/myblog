@@ -1,0 +1,33 @@
+created: 20200907115552096
+creator: digitalap3
+modified: 20200911013227256
+modifier: digitalap3
+page-type: template
+tags: category
+title: categoryTemplate
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/blog/nav-bar" />
+
+<$transclude tiddler="$:/blog-index-other/static-header"/>
+
+ <article>
+   <div class="container">
+     <div class="row">
+       <div class="col-lg-8 col-md-10 mx-auto">
+
+         <$list filter="[category{!!title}]" >
+          <$link>
+           <h3><$view field="post-title" /></h3>
+         </$link>
+         <blockquote class="tc-quote blockquote" style="margin-left:20px">
+             <$transclude field="lead"/>
+         </blockquote>
+       </$list>
+
+
+       </div>
+     </div>
+  </div>
+</article>
+

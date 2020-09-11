@@ -1,0 +1,39 @@
+created: 20200908103402122
+creator: digitalap3
+modified: 20200910035600842
+modifier: digitalap3
+page-type: structure
+tags: 
+title: $:/blogv2/static-footer
+type: text/vnd.tiddlywiki
+
+ <!-- Footer -->
+  <footer>
+    <div class="container text-light bg-info">
+      <div class="row">
+        <div class="col ml-5 mt-3">
+          <ul class="text-left">
+            <li>
+               powered by [[tiddlywiki|https://tiddlywiki.com]]
+            </li>
+            <li>
+               bootstrap template: [[Clean Blog|https://startbootstrap.github.io/startbootstrap-clean-blog/index.html]]
+            </li>
+          </ul>
+        </div>
+        <div class="col mr-5 mt-3">
+          <ul class="text-right">
+            <li>
+               view code on [[github|https://github.com/digitalap3/tiddlywikistaticsitegen]]
+            </li>
+            <li>
+               comments using [[Remark42|https://github.com/umputun/remark42]]
+            </li>
+           </ul>
+      </div>
+    </div>
+      <div class="row mxauto">
+          <p class="copyright text-center text-light mb-2 ml-3">Copyright &copy; digitalap3 2020</p>
+        </div>
+    </div>
+  </footer>

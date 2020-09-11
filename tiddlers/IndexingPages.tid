@@ -1,0 +1,12 @@
+created: 20200831095134810
+creator: digitalap3
+modified: 20200907130511171
+modifier: digitalap3
+tags: 
+title: IndexingPages
+type: text/vnd.tiddlywiki
+
+!!Indexing pages
+(pagetype : index)
+
+<$list filter="[page-type[index]]" />

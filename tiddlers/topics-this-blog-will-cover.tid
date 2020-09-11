@@ -1,0 +1,17 @@
+bgpic: default-post.jpg
+category: Null
+created: 20200908122729125
+creator: digitalap3
+lead: As I think about what categories to use it seems it would be a good idea to just brainstorm a list of what kinds of topics I will be writing about.
+modified: 20200908122946012
+modifier: digitalap3
+page-type: post
+pinned: yes
+post-title: Topics This Blog Will Cover
+publish: yes
+publish-date: 202009071900
+tags: about
+title: topics-this-blog-will-cover
+type: text/vnd.tiddlywiki
+
+{{||PostTemplate}}

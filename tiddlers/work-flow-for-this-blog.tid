@@ -1,0 +1,16 @@
+bgpic: default-post.jpg
+category: Null
+created: 20200909014157229
+creator: digitalap3
+lead: The code used to make this blog is hosted on github. The short version of the workflow when using it is as follows.
+modified: 20200909014436890
+modifier: digitalap3
+page-type: post
+post-title: Work Flow
+publish: yes
+publish-date: 202009081900
+tags: about static-site
+title: work-flow-for-this-blog
+type: text/vnd.tiddlywiki
+
+{{||PostTemplate}}
